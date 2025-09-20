@@ -1,4 +1,4 @@
-# k-NN Workshop Homework
+# Tasks1 about knn practices
 
 ## Project Overview
 
